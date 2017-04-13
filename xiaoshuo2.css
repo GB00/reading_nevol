@@ -1,0 +1,48 @@
+#zma{
+	border:2px solid olive;
+	width: 1020px;
+	height: 266px;
+	background-color: #fff;}
+	.zmb1,.zmab,.zmb,.zma1{	
+		display: inline-block;
+		margin: 0px;
+		padding: 0px;
+		margin-top: 28px;}
+.zma1,.zmb,.zmb1{
+	border-right: 1px solid red;
+	padding-right:  9px;
+	margin-right: 14px;
+	font-size: 14px;
+	}
+.zma1{color: red;}.zmb1{border: none;}
+.zmab{
+	margin-left: 20px;
+	margin-right: 20px;
+	  font-weight:900;
+	  font-size: 20px;}
+ #zmc{margin-top:16px;
+	margin: 0px;
+	padding: 0px;
+	 width: 1020px;
+	 height: 138px;
+	 background-color:#Fff; }
+.zmone{ background: url("top.png") no-repeat;} 
+.zmtwo{background: url("one.png") no-repeat;}  	
+.zmthree{ background: url("two.png") no-repeat;}  	
+.zmfour{background: url("three.png") no-repeat;} 
+.zmfive{background: url("four.png") no-repeat;} 	
+.zmsix{ background: url("5.png") no-repeat;}	  	
+.zmseven{background: url("6.png") no-repeat;}
+.zmeight{background: url("7.png") no-repeat;}
+.zmone,.zmtwo,.zmthree,.zmfour	,.zmfive,.zmsix,.zmseven,.zmeight{display:inline-block;
+ 	margin:0px;padding: 0px; margin-left: 16px;
+ 											width: 103px;
+							  				height: 138px;
+							 			    background-color:#fff; }
+.width {width: 1020px;height: 32px;	background-color:#fff;overflow: hidden;margin-top: 10px;}					 			    
+.zm1,.zm2,.zm3,.zm4,.zm5,.zm6,.zm7,.zm8 
+{ margin-left : 22px;font-size: 6px;float: left; padding-left: 1px;width: 103px;height: 32px;background-color: #Fff;text-decoration:none;}
+
+
+
+	 
