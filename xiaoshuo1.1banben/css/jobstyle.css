@@ -1,0 +1,188 @@
+
+
+h3,h4,dl,dd,p,a,ul,li{
+	margin: 0;
+	padding: 0;
+}
+a{
+	text-decoration: none
+}
+h3{
+	margin-bottom: 10px;
+}
+li{
+	list-style: none;
+}
+h3{
+    font: 700 18px/26px PingFangSC-Regular,HelveticaNeue-Light,'Helvetica Neue Light','Microsoft YaHei',sans-serif;
+    overflow: hidden;
+    height: 24px;
+    margin-bottom: 7px!important;
+}
+h3 a{
+	transition:color .3s,background-color .3s,border .3s
+	text-decoration:none;
+	font-family:'宋体';
+	color: #1a1a1a;
+}
+h3 a:hover{
+	color: red;
+}
+.shuben{
+	width: 100%;
+	height: 100%;
+	position:; 
+	transition: 1s;
+}
+.shuben:hover{
+	position: static; 
+	width: 110%;
+	height: 110%;
+	overflow: hidden;
+	z-index: -0.5;
+	
+}
+.book-text{
+	position: absolute;
+	/*display: none;*/
+	width: 192px;
+	height: 137px;
+	
+}
+.org{
+	font-family: 宋体;
+	color: #ffa100;
+    border: 1px solid #ffa100;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.red{
+	font-family: 宋体;
+	color: #ff3955;
+    border: 1px solid #ff3955;
+    font-size: 12px;
+    margin-right: 5px;
+}
+.blue{
+	font-family: 宋体;
+	color: #4284ed;
+    border: 1px solid #4284ed;
+    font-size: 12px;
+}
+.mg6060{
+	margin: 6px 0;
+}	
+.index-book-wrap1{
+	width: 1020px;
+	height: 376px;
+	margin: 20px auto;
+
+}
+.inner-wrap1 {
+    width: 980px;
+	height: 336px;
+	margin-bottom: 20px;
+    padding: 20px;
+    background: #fff;
+}    
+.wrap-title1{
+    font-weight: 400;
+    line-height: 28px;
+    overflow: hidden;
+    height: 26px;
+    color: #1a1a1a;
+}
+.lang {
+	font-size: 22px;
+    font-family: FZZCYSK;
+	font-style: normal
+	
+}
+.la-ball-pulse{
+
+	}
+.left-Carousel{
+	width: 228px;
+    height: 298px;
+    margin-right: 20px;
+    border: 1px solid #e6e6e6;	
+    display: inline-block;
+    float: left;
+}
+.three-picture{
+	background: url(../img/lunbo.png);
+	background-size: contain;
+	position: relative;
+    z-index: 1;
+    height: 108px;
+    padding: 34px 0 0 56px
+}
+.three-text{
+	width: 192px;
+    margin: 0 auto;
+    /*text-align: center;*/
+}
+.introduce{
+	font: 12px/20px PingFangSC-Regular,'-apple-system',Simsun;
+	/*font-size: 12px;*/
+    overflow: hidden;
+    height: 60px;
+    margin-bottom: 20px;
+    text-align: left;
+    color: #1a1a1a;
+}
+.author{
+	font: 12px/14px PingFangSC-Regular,'-apple-system',Simsun;
+    overflow: hidden;
+    height: 14px;
+    margin-bottom: 10px;
+    color: grey;
+    cursor: default;
+}
+.author:hover{
+	color: black;
+/*.author a{
+	font: 12px/14px PingFangSC-Regular,'-apple-system',Simsun;
+    overflow: hidden;
+    height: 14px;
+    margin-bottom: 10px;
+    color: grey;*/
+}
+.book1,.book2,.book3{
+	position: absolute;
+}
+.book-img{
+	width: 103px;
+    height: 138px;
+    border: 1px solid #e6e6e6;
+    float: left;
+}
+.wrap-book{
+	float: left;
+}
+.wrap-book ul{
+	position: absolute;
+    z-index: 1;
+    width: 750px;
+}
+.wrap-book li{
+	width: 350px;
+	height: 140px;
+	margin: 0 20px 20px 0;
+	float: left;
+	
+}
+.book-box {
+	width: 230px;
+	height: 134px;
+    padding-top: 5px;
+    position:relative;
+    float: right;
+    
+}
+p.tails{
+	font: 12px/18px PingFangSC-Regular,HelveticaNeue-Light,'Helvetica Neue Light','Microsoft YaHei',sans-serif;
+    overflow: hidden;
+    height: 54px;
+    color: grey;
+}

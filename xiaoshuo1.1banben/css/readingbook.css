@@ -1,0 +1,39 @@
+
+
+
+#ljwarp{ margin:0 auto;
+	width: 1020px;
+	height: 560px;
+	margin-top:20px;
+	padding-top:10px;
+	/*border:1px solid  gray; */
+	background-color:#ffffff;
+	font-size: 17px;
+	color:black;
+		}
+	
+.Ljtitle{
+	text-align: left;
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+	.js{width: 235px;
+				height:440px;
+				float: left;
+				text-align: center;
+				margin-left:15px;}
+	.LjunU{padding: 0;}		
+	.LjunU>li{	list-style: none;
+		text-align:left;
+		border-bottom:1px solid gray;
+		line-height: 39px;
+		color: black;
+	text-decoration:none;}
+	.num1,.num2,.num3,.b{display:line-block;width: 17px;height: 17px;text-align:center;}
+	.num1{background-color: #ff3955;line-height: 17px;}
+	.num2{background-color:#e67225;line-height: 17px}
+	.num3{background-color: #e6bf25;line-height: 17px;}
+	#lja1{display: inline-block;margin:18px;}
+	.b{text-align:left;margin-right:10px;}
+	.name{text-decoration:none; color:#000;}
+	.name:hover {color: red;}
+		

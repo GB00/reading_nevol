@@ -1,0 +1,34 @@
+body{margin: 0;background:#f5f5f5;}
+a{
+	color:#000;
+}
+#top{height: 64px;background-color: #fff;margin-bottom: 20px;box-shadow:0 5px 20px #888;}
+#top1{position:relative;width: 1020px;height: 64px;margin: 0 auto;background-color: lime;background: url(../img/logo.0.1.png) no-repeat 0 16px; 
+	background-size: 140px 30px;}
+#top-text{height: 30px;width: 238px;margin:13px 0 0 350px;padding:0 50px 0 12px;border-radius: 10px;outline: none;border: 3px solid pink;}
+.top_search{position:absolute;width:45px;height:30px;top:16px;right:367px;border:none;border-top-right-radius:6px; border-bottom-right-radius:6px;/*background:url();*/ }
+.Hff{display:inline-block;height:30px;padding-left:28px;text-decoration:none;color:#1a1a1a;}
+.bookcase{margin:0 26px 0 116px;background:url(../img/bookcase.gif) no-repeat;}
+.Hf_Author{background:url(../img/author.gif) no-repeat;}
+.signin{float:right;width:36px;height:36px;margin-top:12px;padding:0;background:url(../img/account.0.1.png) no-repeat;background-size:36px 36px;}
+#lwswrap{margin: 0 auto;height: 250px;width: 980px;padding: 23px 20px;background-color: #fff;}
+#lwsone{width: 978px;height: 250px;border: 1px solid gray;}
+#lwsimg{width: 746px;height: 250px;}
+#lwsone1{width: 232px;height: 250px;float: right;background-color: #fff;}
+.lwstite{line-height: 42px;list-style: none;text-indent:15px;cursor:pointer; }
+.liimg{background:url(../img/liimg.png) no-repeat 25px; background-size: 20px;}
+.lwsred{background-color: red;}
+.footer{height:280px;margin-top: 20px;}
+#footer_content{padding:20px 0;text-align:center;font-size:12px;}
+.yuewen{}
+.pad{padding:0;margin-right:10px;}
+.pad:nth-of-type(1){margin:0;}
+.pad:nth-of-type(2){margin-left:18px}
+.pad:nth-of-type(14){margin:0;}
+.pad:nth-of-type(15){display:inline-block;margin:10px 10px 0 0;}
+.pad:last-of-type{display: inline-block;margin:10px 0 0 0;}
+#footer_menu{margin:0 0 10px 0;}
+.gray{color:#909090;}
+.Copyright{margin:0;}
+.site_1{display:inline-block;width:125px;height:50px;margin:20px 50px 0 0;border:1px solid #ededed;background:url(../img/foot_site.0.1.png) 0 -46px no-repeat;}
+.site_2{display:inline-block;width:125px;height:50px;border:1px solid #ededed;background:url(../img/foot_site.0.1.png) 0 0 no-repeat;}
